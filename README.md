@@ -269,5 +269,5 @@ Apart from the main diameter of the matrix. we see that the rest of the matrix i
 ### Writers 
 
 
-* [Bahram Jannesar](https://github.com/shubhvaidya) ( :pencil2: )
+* [Shubham Vaidya](https://github.com/shubhvaidya) ( :pencil2: )
 
